@@ -131,7 +131,7 @@ set t_Co=256
 " Color scheme
 "colorscheme solarized
 " colorscheme tomorrow-night
-colorscheme tomorrow
+colorscheme badwolf
 set background=light
 set encoding=utf-8
 
